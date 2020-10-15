@@ -3,6 +3,7 @@ twitter.app (Analog)
 Functional:
 - Work with MySQL DB.(Add)
 - Filter
+- Registration/Authorization User.
 
 
 
